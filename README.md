@@ -1,7 +1,7 @@
 # LetsUpgrade-Python
 Repository created for Assignments and Projects related to Python Essentials.
 
-## ASSIGNMENT - I
+## ASSIGNMENT - I (DAY - II) || 02nd September, 2020
 ### Description
 Python Built-in Functions & Methods of List, Dictionary, Sets, Tuple, Strings Datatypes.
 
